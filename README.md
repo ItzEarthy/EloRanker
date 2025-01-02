@@ -34,7 +34,7 @@ This is a solo project and is just a showcase. Contributions are not accepted.
 All rights belong to the creator. No copying or creating similar sites is allowed.
 
 ## Contact
-If you have any questions or need further information, you can reach out via email: Itsearthy6@gmail.com
+If you have any questions or need further information, you can reach out via email: Itzearthy6@gmail.com
 
 ---
 
